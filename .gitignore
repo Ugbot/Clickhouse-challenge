@@ -1,0 +1,7 @@
+.terraform*
+creds
+backup
+venv
+*.tfstate*
+notebooks/.ipynb_checkpoints
+notebooks/.env
